@@ -6,21 +6,7 @@ Welcome to the Generative AI Projects repository! This repository contains a col
 
 ## Projects
 
-### 1. Personal Voice Assistant
-
-#### Description
-The Personal Voice Assistant project implements a voice-controlled assistant that can capture audio, transcribe it, query a language model, synthesize the response into speech, and play the audio output.
-
-#### Key Features
-- Speech recognition
-- Language model querying
-- Text-to-speech synthesis
-- Audio playback
-
-#### Folder
-[PersonalVoiceAssistant](./PersonalVoiceAssistant)
-
-### 2. Meeting Minute Generator with Question &amp; Answer
+### 1. Meeting Minute Generator with Question &amp; Answer
 
 #### Description
 The Meeting Minute Generator with Question &amp; Answer project automates the process of generating meeting minutes and provides a question and answer feature based on the meeting's content.
@@ -31,8 +17,24 @@ The Meeting Minute Generator with Question &amp; Answer project automates the pr
 - Meeting summarization
 - Question &amp; answer functionality
 
-#### Folder
-[Meeting-Minute-Generator-with-Question&amp;Answer](./Meeting-Minute-Generator-with-Question&amp;Answer)
+
+#### Go to project
+[Meeting-Minute-Generator-with-Question&amp;Answer](https://github.com/akshay-js/gen-ai-projects/tree/main/Meeting-Minute-Generator-with-Question%26Answer)
+
+### 2. Personal Voice Assistant
+
+#### Description
+The Personal Voice Assistant project implements a voice-controlled assistant that can capture audio, transcribe it, query a language model, synthesize the response into speech, and play the audio output.
+
+#### Key Features
+- Speech recognition
+- Language model querying
+- Text-to-speech synthesis
+- Audio playback
+
+#### Go to project
+[PersonalVoiceAssistant](https://github.com/akshay-js/gen-ai-projects/tree/main/PersonalVoiceAssitent)
+
 
 ## Installation
 
