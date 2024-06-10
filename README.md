@@ -21,7 +21,7 @@ The Meeting Minute Generator with Question &amp; Answer project automates the pr
 #### Go to project
 [Meeting-Minute-Generator-with-Question&amp;Answer](https://github.com/akshay-js/gen-ai-projects/tree/main/Meeting-Minute-Generator-with-Question%26Answer)
 #### Go to Demo 
-[Demo](https://huggingface.co/spaces/AkshaySharma770/meeting-minute-generator-and-question-and-answer-chatbot).
+[UI Demo](https://huggingface.co/spaces/AkshaySharma770/meeting-minute-generator-and-question-and-answer-chatbot)
 
 ### 2. Personal Voice Assistant
 

@@ -24,4 +24,4 @@ Before you begin, ensure you have met the following requirements:
   - `whisper`
 
 ## Demo 
-Please get the working (Demo)[https://huggingface.co/spaces/AkshaySharma770/meeting-minute-generator-and-question-and-answer-chatbot]
+[UI Demo](https://huggingface.co/spaces/AkshaySharma770/meeting-minute-generator-and-question-and-answer-chatbot)
