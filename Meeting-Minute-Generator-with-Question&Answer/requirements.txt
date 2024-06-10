@@ -1,0 +1,4 @@
+transformers
+torchaudio
+gradio
+sentencepiece

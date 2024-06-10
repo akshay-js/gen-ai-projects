@@ -22,3 +22,6 @@ Before you begin, ensure you have met the following requirements:
   - `langchain`
   - `pydub`
   - `whisper`
+
+## Demo 
+Please get the working (Demo)[https://huggingface.co/spaces/AkshaySharma770/meeting-minute-generator-and-question-and-answer-chatbot]
